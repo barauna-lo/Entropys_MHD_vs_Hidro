@@ -1,6 +1,6 @@
 # Entropies: MHD vs Hydro
 
-Repository For the publication **Fine-Grained Comparative Classification of Equivalent MHD and HD Turbulence Patterns in an Entropic Informational Parameter Space**
+Repository For the publication **"Fine-Grained Comparative Classification of Equivalent MHD and HD Turbulence Patterns in an Entropic Informational Parameter Space"**
 
 **_Abstract:_**
 
